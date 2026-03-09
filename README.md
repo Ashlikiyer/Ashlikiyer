@@ -1,4 +1,3 @@
-# 💫 About Me:
 I'm a Full Stack Developer who also dabbles in UI/UX Design, QA Testing, and Cloud Engineering.<br>I love building things end-to-end — from crafting clean interfaces to making sure everything <br>actually works behind the scenes.<br><br>Always excited for hackathons, always learning something new in the cloud space.<br>Let's build something great together! 🚀
 
 
